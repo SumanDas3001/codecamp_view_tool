@@ -1,4 +1,4 @@
-# CodecampViewTool
+# Copyright Generator
 
 > Various view specific method for application I use
 
